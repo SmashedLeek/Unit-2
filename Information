@@ -11,14 +11,25 @@ I would remove utility section because having 3 files to run a program seems to 
 • What makes this your best piece?
 The complexity of connecting multiple devices through a simple port over a wifi connection is amazing.
 • How did you go about creating it?
+My partner and I had a simple server code that we got from Github that we modified and adding our decrypt plus encrypt python into the chat box to allow us to send secure messages with simple functions.
 • What problems did you encounter? How did you solve them?
+There was not much of a problem since the main part of the code was already functional we just needed to modify it to allow a broader connection range and a certain port so that any network can connect to the server allowing us to communicate much easier.
 • Of all the items included, which one was the hardest for you?
+Getting the client side to understand and communicate with the server side of the python code.
 • What makes your strongest piece different from your weakest piece?
+The strongest piece is the server itself that differs slightly from the weaker piece which is the client side that allows for the server to allow access on a port or url connection.
 • What goals did you set for yourself? How well did you accomplish them?
+Get it functional. I would say me and my partner accomplished them very well considering the small amount of time we had to do it in.
 • Why did you select this piece of work?
+We already had the server up and running for the chat room
 • What was particularly important to you during the process of creating this work?
+It is more of an ongoing process because i want to get it to be cross platform between linux and windows OS.
 • How does this relate to what you have learned before?
+This relates because it uses lists and other functions nthat we have learned throughout the course along side other things we have looked up and self taught ourselves.
 • Which piece would you most like to improve? Why?
+Honestly i would like to improve both client and server side to allow cross communication between linux and windows.Because cross platform is very important since not every user is gunna be using for example linux.
 • What is the one thing you would like someone to notice about your portfolio? Why?
+I would like someone to notice how my progression in this course is going. Because it is important to get outside feedback to assure me that i am on the right path of learning or if i am missing out of any good resources that i have not used before.
 • Do you feel that this collection of work really reflects your abilities and what you have achieved so far this year? Why or why not?
+Yes, Because it shows that I can be a team player that can learn on the fly to how someone else codes but at the same time I am learning the syntax and different things python is capable of doing and being able to implement it myself as well.
 
